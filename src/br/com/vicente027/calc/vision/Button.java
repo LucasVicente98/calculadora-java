@@ -14,6 +14,6 @@ public class Button extends JButton {
 		setOpaque(true);
 		setBackground(color);
 		setForeground(Color.WHITE);
-	//	setBorder(BorderFactory.createLineBorder(Color.BLACK));
+		// setBorder(BorderFactory.createLineBorder(Color.BLACK));
 	}
 }
