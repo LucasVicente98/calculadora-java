@@ -1,4 +1,8 @@
-# calculadora-java
-## Desenvolvido por Luquinhas
+# Calculadora Java
 
-17/01/23 - 11:01
+## Calculadora desenvolvida utilizando a interface gráfica Swing
+
+### Em breve novas funções serão adicionadas, como porcentagem e potência
+
+
+02/02/23 - 11:46
